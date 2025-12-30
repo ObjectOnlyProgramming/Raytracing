@@ -1,1 +1,1 @@
-This is from the book "Raytracing In One Weekend" by Peter Shirley, Trevor David Black and Steve Hollasch. I am also planning to continue with the other two books in the series.
+This is from the book [Raytracing In One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html) by [Peter Shirley](https://github.com/petershirley), [Trevor David Black](https://github.com/trevordblack) and [Steve Hollasch](https://github.com/hollasch). I am also planning to continue with the other two books in the series.
