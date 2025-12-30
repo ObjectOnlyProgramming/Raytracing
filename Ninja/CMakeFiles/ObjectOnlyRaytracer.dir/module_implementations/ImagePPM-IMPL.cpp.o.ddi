@@ -1,0 +1,35 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/ImagePPM-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Vec3"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "HitRecord"
+        },
+        {
+          "logical-name": "Hittable"
+        },
+        {
+          "logical-name": "HittableList"
+        },
+        {
+          "logical-name": "ImagePPM"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

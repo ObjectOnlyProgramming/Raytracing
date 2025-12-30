@@ -1,0 +1,9 @@
+-x c++-module
+-fmodule-output=CMakeFiles/ObjectOnlyRaytracer.dir/ImagePPM.pcm
+-fmodule-file=Vec3=CMakeFiles/ObjectOnlyRaytracer.dir/Vec3.pcm
+-fmodule-file=Color=CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm
+-fmodule-file=Ray=CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm
+-fmodule-file=Hittable=CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm
+-fmodule-file=HittableList=CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm
+-fmodule-file=HitRecord=CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm
+-fmodule-file=std=CMakeFiles/__cmake_cxx23.dir/std.pcm

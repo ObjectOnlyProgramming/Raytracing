@@ -1,0 +1,53 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/HittableList-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Randomizer"
+        },
+        {
+          "logical-name": "Interval"
+        },
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "HitRecord"
+        },
+        {
+          "logical-name": "Hittable"
+        },
+        {
+          "logical-name": "Sphere"
+        },
+        {
+          "logical-name": "Material"
+        },
+        {
+          "logical-name": "Lambertian"
+        },
+        {
+          "logical-name": "Metal"
+        },
+        {
+          "logical-name": "Dielectric"
+        },
+        {
+          "logical-name": "HittableList"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

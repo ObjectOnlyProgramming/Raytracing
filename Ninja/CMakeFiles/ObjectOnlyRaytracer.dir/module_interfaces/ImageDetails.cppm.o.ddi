@@ -1,0 +1,16 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/ImageDetails.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "ImageDetails",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/ImageDetails.cppm"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

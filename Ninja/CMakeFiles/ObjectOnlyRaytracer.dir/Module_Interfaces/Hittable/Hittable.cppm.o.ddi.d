@@ -1,0 +1,2 @@
+CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/Hittable.cppm.o.ddi: \
+  /home/GiftedBrainstormsCEO/Object\ Only\ Raytracer/Module_Interfaces/Hittable/Hittable.cppm

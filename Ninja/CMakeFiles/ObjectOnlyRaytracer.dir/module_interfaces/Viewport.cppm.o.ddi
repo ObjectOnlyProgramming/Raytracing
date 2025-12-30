@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/Viewport.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Viewport",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/Viewport.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Vector3D"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

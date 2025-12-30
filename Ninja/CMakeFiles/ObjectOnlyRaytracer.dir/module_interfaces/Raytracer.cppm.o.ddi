@@ -1,0 +1,42 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/Raytracer.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Raytracer",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/Raytracer.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Randomizer"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Sphere"
+        },
+        {
+          "logical-name": "Hittable"
+        },
+        {
+          "logical-name": "HittableList"
+        },
+        {
+          "logical-name": "Camera"
+        },
+        {
+          "logical-name": "Material"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/ImageDetails-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "ImageDetails"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

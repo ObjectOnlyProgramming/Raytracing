@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/Randomizer.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Randomizer",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/Randomizer.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Vector3D"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

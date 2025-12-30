@@ -1,0 +1,39 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/Sphere.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Sphere",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Hittable/Sphere.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Interval"
+        },
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Hittable"
+        },
+        {
+          "logical-name": "HitRecord"
+        },
+        {
+          "logical-name": "Material"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

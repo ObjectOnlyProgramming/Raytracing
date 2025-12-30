@@ -1,0 +1,14 @@
+-x c++-module
+-fmodule-output=CMakeFiles/ObjectOnlyRaytracer.dir/Raytracer.pcm
+-fmodule-file=std=CMakeFiles/__cmake_cxx23.dir/std.pcm
+-fmodule-file=Vector3D=CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+-fmodule-file=Randomizer=CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm
+-fmodule-file=Color=CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm
+-fmodule-file=Sphere=CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm
+-fmodule-file=Hittable=CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm
+-fmodule-file=HittableList=CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm
+-fmodule-file=Camera=CMakeFiles/ObjectOnlyRaytracer.dir/Camera.pcm
+-fmodule-file=Material=CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+-fmodule-file=HitRecord=CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm
+-fmodule-file=Interval=CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm
+-fmodule-file=Ray=CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm

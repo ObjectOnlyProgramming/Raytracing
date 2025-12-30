@@ -1,0 +1,26 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Lambertian-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Randomizer"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "HitRecord"
+        },
+        {
+          "logical-name": "Lambertian"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

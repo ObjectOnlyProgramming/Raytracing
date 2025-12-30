@@ -1,0 +1,20 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/HitRecord-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "HitRecord"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

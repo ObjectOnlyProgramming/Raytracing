@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/Vec3.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Vec3",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/Vec3.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "std"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,23 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/Color-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Interval"
+        },
+        {
+          "logical-name": "Color"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/Dialectric-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "HitRecord"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Randomizer"
+        },
+        {
+          "logical-name": "Dialectric"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

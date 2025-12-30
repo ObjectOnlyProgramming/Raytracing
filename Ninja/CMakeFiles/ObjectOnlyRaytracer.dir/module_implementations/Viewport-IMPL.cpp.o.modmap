@@ -1,0 +1,3 @@
+-fmodule-file=Viewport=CMakeFiles/ObjectOnlyRaytracer.dir/Viewport.pcm
+-fmodule-file=Vector3D=CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+-fmodule-file=std=CMakeFiles/__cmake_cxx23.dir/std.pcm

@@ -1,0 +1,247 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "",
+	"cxx-modules" : 
+	{
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Camera.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Camera.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Color.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Color.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/HitRecord.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Hittable",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Hittable/HitRecord.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/Hittable.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Hittable",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Hittable/Hittable.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/HittableList.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Hittable",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Hittable/HittableList.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/Sphere.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Hittable",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Hittable/Sphere.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Interval.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Interval.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Dielectric.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Material",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Material/Dielectric.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Lambertian.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Material",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Material/Lambertian.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Material.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Material",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Material/Material.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Metal.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces/Material",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Material/Metal.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Randomizer.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Randomizer.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Ray.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Ray.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Raytracer.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Raytracer.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Vector3D.cppm.o" : 
+		{
+			"bmi-only" : false,
+			"destination" : null,
+			"name" : "custom_modules",
+			"relative-directory" : "Module_Interfaces",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Vector3D.cppm",
+			"type" : "CXX_MODULES",
+			"visibility" : "PUBLIC"
+		}
+	},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja",
+	"dir-cur-src" : "/home/GiftedBrainstormsCEO/Object Only Raytracer",
+	"dir-top-bld" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja",
+	"dir-top-src" : "/home/GiftedBrainstormsCEO/Object Only Raytracer",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : 
+	[
+		"/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/__cmake_cxx23.dir"
+	],
+	"module-dir" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir",
+	"sources" : 
+	{
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Camera-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Camera-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Color-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Color-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/HitRecord-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Hittable-IMPL/HitRecord-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/HittableList-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Hittable-IMPL/HittableList-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/Sphere-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Hittable-IMPL/Sphere-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Interval-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Interval-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Dielectric-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Material-IMPL/Dielectric-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Lambertian-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Material-IMPL/Lambertian-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Metal-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Material-IMPL/Metal-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Randomizer-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Randomizer-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Ray-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Ray-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Raytracer-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Raytracer-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Vector3D-IMPL.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Implementations/Vector3D-IMPL.cpp"
+		},
+		"CMakeFiles/ObjectOnlyRaytracer.dir/src/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/src/main.cpp"
+		}
+	}
+}

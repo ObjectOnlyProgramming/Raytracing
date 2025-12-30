@@ -1,0 +1,5 @@
+/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/__cmake_cxx23.dir
+/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/__cmake_cxx26.dir
+/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir
+/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/edit_cache.dir
+/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/rebuild_cache.dir

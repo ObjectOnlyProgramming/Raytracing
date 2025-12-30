@@ -1,0 +1,30 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/Material.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Material",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/Material.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Randomizer"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "HitRecord"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,27 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/HitRecord.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "HitRecord",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/HitRecord.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Vector3D"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

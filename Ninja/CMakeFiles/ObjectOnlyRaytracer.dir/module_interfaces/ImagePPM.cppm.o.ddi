@@ -1,0 +1,33 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/ImagePPM.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "ImagePPM",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/ImagePPM.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Vec3"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Hittable"
+        },
+        {
+          "logical-name": "HittableList"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

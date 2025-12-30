@@ -1,0 +1,17 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/src/main.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Raytracer"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

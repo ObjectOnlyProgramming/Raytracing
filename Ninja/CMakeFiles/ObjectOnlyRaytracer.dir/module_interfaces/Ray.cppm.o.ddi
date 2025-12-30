@@ -1,0 +1,24 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_interfaces/Ray.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "Ray",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/module_interfaces/Ray.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Color"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

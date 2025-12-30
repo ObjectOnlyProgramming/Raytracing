@@ -1,0 +1,74 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Interval-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Vector3D-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Randomizer-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Color-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Ray-IMPL.cpp.o: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/HitRecord-IMPL.cpp.o: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Lambertian-IMPL.cpp.o: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Lambertian.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Metal-IMPL.cpp.o: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Metal.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Material-IMPL/Dielectric-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Dielectric.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/HittableList-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Lambertian.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Metal.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Dielectric.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Hittable-IMPL/Sphere-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Camera-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Camera.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Implementations/Raytracer-IMPL.cpp.o: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Raytracer.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/src/main.cpp.o: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Raytracer.pcm
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Interval.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm: dyndep
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Vector3D.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Randomizer.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Color.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Ray.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/HitRecord.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/Hittable.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Lambertian.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Lambertian.pcm: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Metal.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Metal.pcm: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Dielectric.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Dielectric.pcm: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/HittableList.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Material/Material.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm: dyndep | CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/Sphere.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Camera.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Camera.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+
+build CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Raytracer.cppm.o | CMakeFiles/ObjectOnlyRaytracer.dir/Raytracer.pcm: dyndep | CMakeFiles/__cmake_cxx23.dir/std.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Camera.pcm CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm
+  restat = 1
+

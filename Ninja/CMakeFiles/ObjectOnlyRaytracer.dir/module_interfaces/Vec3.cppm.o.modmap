@@ -1,0 +1,3 @@
+-x c++-module
+-fmodule-output=CMakeFiles/ObjectOnlyRaytracer.dir/Vec3.pcm
+-fmodule-file=std=CMakeFiles/__cmake_cxx23.dir/std.pcm

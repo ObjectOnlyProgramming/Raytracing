@@ -1,0 +1,304 @@
+{
+	"modules" : 
+	{
+		"Camera" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Camera.pcm",
+			"is-private" : false
+		},
+		"Color" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm",
+			"is-private" : false
+		},
+		"Dielectric" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Dielectric.pcm",
+			"is-private" : false
+		},
+		"HitRecord" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm",
+			"is-private" : false
+		},
+		"Hittable" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm",
+			"is-private" : false
+		},
+		"HittableList" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm",
+			"is-private" : false
+		},
+		"Interval" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm",
+			"is-private" : false
+		},
+		"Lambertian" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Lambertian.pcm",
+			"is-private" : false
+		},
+		"Material" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm",
+			"is-private" : false
+		},
+		"Metal" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Metal.pcm",
+			"is-private" : false
+		},
+		"Randomizer" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm",
+			"is-private" : false
+		},
+		"Ray" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm",
+			"is-private" : false
+		},
+		"Raytracer" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Raytracer.pcm",
+			"is-private" : false
+		},
+		"Sphere" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm",
+			"is-private" : false
+		},
+		"Vector3D" : 
+		{
+			"bmi" : "/home/GiftedBrainstormsCEO/Object Only Raytracer/Ninja/CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm",
+			"is-private" : false
+		}
+	},
+	"references" : 
+	{
+		"Camera" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Camera.pcm"
+		},
+		"Color" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm"
+		},
+		"Dielectric" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Dielectric.pcm"
+		},
+		"HitRecord" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm"
+		},
+		"Hittable" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Hittable.pcm"
+		},
+		"HittableList" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/HittableList.pcm"
+		},
+		"Interval" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Interval.pcm"
+		},
+		"Lambertian" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Lambertian.pcm"
+		},
+		"Material" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm"
+		},
+		"Metal" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Metal.pcm"
+		},
+		"Randomizer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm"
+		},
+		"Ray" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm"
+		},
+		"Raytracer" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Raytracer.pcm"
+		},
+		"Sphere" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Sphere.pcm"
+		},
+		"Vector3D" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm"
+		},
+		"std" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/__cmake_cxx23.dir/std.pcm"
+		},
+		"std.compat" : 
+		{
+			"lookup-method" : "by-name",
+			"path" : "CMakeFiles/__cmake_cxx23.dir/std.compat.pcm"
+		}
+	},
+	"usages" : 
+	{
+		"Camera" : 
+		[
+			"Color",
+			"HitRecord",
+			"Hittable",
+			"HittableList",
+			"Interval",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Color" : 
+		[
+			"Vector3D",
+			"std"
+		],
+		"Dielectric" : 
+		[
+			"Color",
+			"HitRecord",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"HitRecord" : 
+		[
+			"Color",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Hittable" : 
+		[
+			"Color",
+			"HitRecord",
+			"Interval",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"HittableList" : 
+		[
+			"Color",
+			"HitRecord",
+			"Hittable",
+			"Interval",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Lambertian" : 
+		[
+			"Color",
+			"HitRecord",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Material" : 
+		[
+			"Color",
+			"HitRecord",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Metal" : 
+		[
+			"Color",
+			"HitRecord",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Randomizer" : 
+		[
+			"Vector3D",
+			"std"
+		],
+		"Ray" : 
+		[
+			"Color",
+			"Vector3D",
+			"std"
+		],
+		"Raytracer" : 
+		[
+			"Camera",
+			"Color",
+			"HitRecord",
+			"Hittable",
+			"HittableList",
+			"Interval",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Sphere",
+			"Vector3D",
+			"std"
+		],
+		"Sphere" : 
+		[
+			"Color",
+			"HitRecord",
+			"Hittable",
+			"Interval",
+			"Material",
+			"Randomizer",
+			"Ray",
+			"Vector3D",
+			"std"
+		],
+		"Vector3D" : 
+		[
+			"std"
+		],
+		"std.compat" : 
+		[
+			"std"
+		]
+	}
+}

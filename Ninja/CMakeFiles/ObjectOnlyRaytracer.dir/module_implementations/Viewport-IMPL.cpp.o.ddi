@@ -1,0 +1,14 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/Viewport-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Viewport"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

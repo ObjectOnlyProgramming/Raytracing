@@ -1,0 +1,23 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/Raytracer-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Raytracer"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

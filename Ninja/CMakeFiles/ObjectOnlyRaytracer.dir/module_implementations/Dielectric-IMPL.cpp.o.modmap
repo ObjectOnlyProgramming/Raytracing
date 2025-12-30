@@ -1,0 +1,8 @@
+-fmodule-file=std=CMakeFiles/__cmake_cxx23.dir/std.pcm
+-fmodule-file=Vector3D=CMakeFiles/ObjectOnlyRaytracer.dir/Vector3D.pcm
+-fmodule-file=Ray=CMakeFiles/ObjectOnlyRaytracer.dir/Ray.pcm
+-fmodule-file=HitRecord=CMakeFiles/ObjectOnlyRaytracer.dir/HitRecord.pcm
+-fmodule-file=Color=CMakeFiles/ObjectOnlyRaytracer.dir/Color.pcm
+-fmodule-file=Randomizer=CMakeFiles/ObjectOnlyRaytracer.dir/Randomizer.pcm
+-fmodule-file=Dielectric=CMakeFiles/ObjectOnlyRaytracer.dir/Dielectric.pcm
+-fmodule-file=Material=CMakeFiles/ObjectOnlyRaytracer.dir/Material.pcm

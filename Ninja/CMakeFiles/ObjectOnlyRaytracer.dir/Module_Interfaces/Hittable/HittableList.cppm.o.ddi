@@ -1,0 +1,39 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/Module_Interfaces/Hittable/HittableList.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "HittableList",
+          "source-path": "/home/GiftedBrainstormsCEO/Object Only Raytracer/Module_Interfaces/Hittable/HittableList.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "std"
+        },
+        {
+          "logical-name": "Randomizer"
+        },
+        {
+          "logical-name": "Interval"
+        },
+        {
+          "logical-name": "Ray"
+        },
+        {
+          "logical-name": "HitRecord"
+        },
+        {
+          "logical-name": "Hittable"
+        },
+        {
+          "logical-name": "Material"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

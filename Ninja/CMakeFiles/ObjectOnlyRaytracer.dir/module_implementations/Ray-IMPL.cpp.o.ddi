@@ -1,0 +1,20 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/ObjectOnlyRaytracer.dir/module_implementations/Ray-IMPL.cpp.o",
+      "requires": [
+        {
+          "logical-name": "Vector3D"
+        },
+        {
+          "logical-name": "Color"
+        },
+        {
+          "logical-name": "Ray"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}
